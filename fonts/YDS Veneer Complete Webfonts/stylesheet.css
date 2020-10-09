@@ -1,0 +1,135 @@
+/*
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Yellow Design Studio. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2014 Yellow Design Studio
+ *
+ *
+ *
+ *
+ */
+
+
+
+
+@font-face {
+    font-family: 'veneerregular';
+    src: url('veneer-webfont.eot');
+    src: url('veneer-webfont.eot?#iefix') format('embedded-opentype'),
+         url('veneer-webfont.woff') format('woff'),
+         url('veneer-webfont.ttf') format('truetype'),
+         url('veneer-webfont.svg#veneerregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'veneer_extrasregular';
+    src: url('veneerextras-webfont.eot');
+    src: url('veneerextras-webfont.eot?#iefix') format('embedded-opentype'),
+         url('veneerextras-webfont.woff') format('woff'),
+         url('veneerextras-webfont.ttf') format('truetype'),
+         url('veneerextras-webfont.svg#veneer_extrasregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'veneer_extrasitalic';
+    src: url('veneerextrasitalic-webfont.eot');
+    src: url('veneerextrasitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('veneerextrasitalic-webfont.woff') format('woff'),
+         url('veneerextrasitalic-webfont.ttf') format('truetype'),
+         url('veneerextrasitalic-webfont.svg#veneer_extrasitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'veneeritalic';
+    src: url('veneeritalic-webfont.eot');
+    src: url('veneeritalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('veneeritalic-webfont.woff') format('woff'),
+         url('veneeritalic-webfont.ttf') format('truetype'),
+         url('veneeritalic-webfont.svg#veneeritalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'veneer_threeregular';
+    src: url('veneerthree-webfont.eot');
+    src: url('veneerthree-webfont.eot?#iefix') format('embedded-opentype'),
+         url('veneerthree-webfont.woff') format('woff'),
+         url('veneerthree-webfont.ttf') format('truetype'),
+         url('veneerthree-webfont.svg#veneer_threeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'veneer_threeitalic';
+    src: url('veneerthreeitalic-webfont.eot');
+    src: url('veneerthreeitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('veneerthreeitalic-webfont.woff') format('woff'),
+         url('veneerthreeitalic-webfont.ttf') format('truetype'),
+         url('veneerthreeitalic-webfont.svg#veneer_threeitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'veneer_tworegular';
+    src: url('veneertwo-webfont.eot');
+    src: url('veneertwo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('veneertwo-webfont.woff') format('woff'),
+         url('veneertwo-webfont.ttf') format('truetype'),
+         url('veneertwo-webfont.svg#veneer_tworegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'veneer_twoitalic';
+    src: url('veneertwoitalic-webfont.eot');
+    src: url('veneertwoitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('veneertwoitalic-webfont.woff') format('woff'),
+         url('veneertwoitalic-webfont.ttf') format('truetype'),
+         url('veneertwoitalic-webfont.svg#veneer_twoitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
