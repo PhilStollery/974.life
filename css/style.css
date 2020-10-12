@@ -95,11 +95,7 @@ h2 { font-family: "veneerregular";
 @media screen and (max-width: 768px) {
     #fh5co-header {
         margin-top: 0;
-        background: #0E0D0F;
-        -webkit-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
-        -moz-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
-        -ms-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
-        box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
+        background: transparent;
     }
     #fh5co-header .navbar-brand {
         color: #ff6600 !important;
