@@ -6,6 +6,17 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'veneerregular';
+    src: url('../fonts/Veneer/veneer-webfont.eot');
+    src: url('../fonts/Veneer/veneer-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Veneer/veneer-webfont.woff') format('woff'),
+         url('../fonts/Veneer/veneer-webfont.ttf') format('truetype'),
+         url('../fonts/Veneer/veneer-webfont.svg#veneerregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
 
 /* =======================================================
 *
@@ -53,6 +64,9 @@ h6 {
     font-family: "Source Sans Pro", Arial, sans-serif;
     font-weight: 400;
 }
+
+h2 { font-family: "veneerregular";
+    font-weight: 900;}
 
 ::-webkit-selection {
     color: #818892;
