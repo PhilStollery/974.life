@@ -14,35 +14,6 @@
 	    );
 	};
 
-
-
-	// Carousel Feature Slide
-	var owlCrouselFeatureSlide = function() {
-		
-		var owl = $('.owl-carousel');
-
-		owl.owlCarousel({
-			items: 1,
-		    loop: true,
-		    margin: 0,
-		    responsiveClass: true,
-		    nav: true,
-		    dots: true,
-		    autoHeight: true,
-		    smartSpeed: 500,
-		    autoplay: true,
-			autoplayTimeout: 4000,
-			autoplayHoverPause: false,
-		    navText: [	
-		      "<i class='icon-arrow-left2 owl-direction'></i>",
-		      "<i class='icon-arrow-right2 owl-direction'></i>"
-	     	]
-		});
-
-	};
-
-
-
 	// animate-box
 	var contentWayPoint = function() {
 
@@ -57,7 +28,6 @@
 		} , { offset: '75%' } );
 
 	};
-
 
 	// Burger Menu
 	var burgerMenu = function() {
@@ -156,8 +126,6 @@
 			
 		});
 	};
-
-
 
 	// Animations
 
@@ -429,7 +397,6 @@
 	$(function(){
 
 		burgerMenu();
-		owlCrouselFeatureSlide();
 		clickMenu();
 		windowScroll();
 		navigationSection();
@@ -441,7 +408,6 @@
 		testimonialsWayPoint();
 		pricingWayPoint();
 		pressWayPoint();
-
 	});
 
 

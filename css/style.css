@@ -202,11 +202,8 @@ h2 { font-family: "veneerregular";
 
 #fh5co-header.navbar-fixed-top {
     position: fixed !important;
-    background: #0E0D0F;
-    -webkit-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
-    -moz-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
-    -ms-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
-    box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
+    background: transparent;
+    background: none;
     margin-top: 0px;
     top: 0;
 }
@@ -306,7 +303,7 @@ h2 { font-family: "veneerregular";
 
 @media screen and (max-width: 768px) {
     .section-heading h2 {
-        font-size: 30px;
+        font-size: 60px;
     }
 }
 
@@ -1302,6 +1299,3 @@ h2 { font-family: "veneerregular";
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both;
 }
-
-
-/*# sourceMappingURL=orange.css.map */
